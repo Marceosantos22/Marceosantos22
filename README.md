@@ -13,3 +13,8 @@
    <a href = "mailto:marceosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <br><p align="centre"><b>Quantidade de visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marceosantos22}/count.svg" /></p> 
+  <br>
+</div>
